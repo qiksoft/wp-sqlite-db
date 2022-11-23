@@ -11,6 +11,7 @@ A single file drop-in for using a SQLite database with WordPress. Based on the o
 #### Quick Start
 - Clone or download this repository
 - Copy `src/db.php` into the root of your site's `wp-content` directory
+- Rename wordpress/wp-config-sample.php to wordpress/wp-config.php.
 
 #### Via Composer
 - `composer require koodimonni/composer-dropin-installer`
